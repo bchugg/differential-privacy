@@ -1,0 +1,7 @@
+share
+pyvenv.cfg
+lib
+etc
+bin
+.ipynb_checkpoints/
+__pycache__/
